@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2024-12-03T06:40:20.129396725Z"
+entries:
+  webapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-03T07:04:45.548206656Z"
+    description: A Helm chart for Kubernetes
+    digest: c29b0f625cf70952a7b7730b8f721b46f439165183787f49788d31b4aa827c9d
+    name: webapp
+    type: application
+    urls:
+    - https://alperen-selcuk.github.io/helmchartrepo/webapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-03T07:04:45.547200447Z"
